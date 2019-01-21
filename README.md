@@ -1,7 +1,7 @@
-# EMACS theme changer
+# EMACS Theme Picker
 
-It is a small extension for EMACS chat figures out the sunset/sunrise times from
-the exact location and changes the color of the theme based on this data.
+This is a small extension of EMACS that figures out the sunset/sunrise times from
+the exact location info, and it changes the color of the theme based on this data.
 
 ## Configuration
 
@@ -19,7 +19,7 @@ The following variables must be set:
 
 The themes will be rotated automatically depending on the time of the day.
 
-It is possible to change it by hand with the F11 function key.
+It is possible to change it by hand with the `F11` function key.
 
 ## License
 
